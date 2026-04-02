@@ -1,0 +1,39 @@
+{
+  "_note": "shot 编号从 shot_1 连续到 shot_N，N 与用户输入的镜头数一致（默认6）。按需增减 shot 对象。",
+  "shot_1": {
+    "scene_description": "",
+    "image_prompt": "",
+    "video_prompt": "",
+    "voice_over_script": ""
+  },
+  "shot_2": {
+    "scene_description": "",
+    "image_prompt": "",
+    "video_prompt": "",
+    "voice_over_script": ""
+  },
+  "shot_3": {
+    "scene_description": "",
+    "image_prompt": "",
+    "video_prompt": "",
+    "voice_over_script": ""
+  },
+  "shot_4": {
+    "scene_description": "",
+    "image_prompt": "",
+    "video_prompt": "",
+    "voice_over_script": ""
+  },
+  "shot_5": {
+    "scene_description": "",
+    "image_prompt": "",
+    "video_prompt": "",
+    "voice_over_script": ""
+  },
+  "shot_6": {
+    "scene_description": "",
+    "image_prompt": "",
+    "video_prompt": "",
+    "voice_over_script": ""
+  }
+}
