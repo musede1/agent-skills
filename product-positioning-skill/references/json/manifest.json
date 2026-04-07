@@ -1,0 +1,26 @@
+[
+  {
+    "source_file": "C层场景标准库V1_1.xlsx",
+    "domain": "scene",
+    "row_count": 84,
+    "json_file": "references/json/scene_rows.json"
+  },
+  {
+    "source_file": "F风格组合映射表V2.xlsx",
+    "domain": "style",
+    "row_count": 66,
+    "json_file": "references/json/style_rows.json"
+  },
+  {
+    "source_file": "人群画像V1.xlsx",
+    "domain": "audience",
+    "row_count": 7,
+    "json_file": "references/json/audience_rows.json"
+  },
+  {
+    "source_file": "题材标准库V1.xlsx",
+    "domain": "theme",
+    "row_count": 41,
+    "json_file": "references/json/theme_rows.json"
+  }
+]
